@@ -1,0 +1,81 @@
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\bin\Debug\New Information System.exe
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\bin\Debug\New Information System.pdb
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form1.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form2.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form3.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form4.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form5.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form6.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Form7.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New_Information_System.Properties.Resources.resources
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New Information System.exe
+c:\users\basiq\documents\visual studio 2010\Projects\New Information System\New Information System\obj\x86\Debug\New Information System.pdb
+E:\ko\New Information System\obj\x86\Debug\New Information System.exe
+E:\ko\New Information System\obj\x86\Debug\New Information System.pdb
+E:\ko\New Information System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form1.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form2.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form3.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form4.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form5.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form6.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Form7.resources
+E:\ko\New Information System\obj\x86\Debug\New_Information_System.Properties.Resources.resources
+E:\ko\New Information System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ko\New Information System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ko\New Information System\bin\Debug\New Information System.exe
+E:\ko\New Information System\bin\Debug\New Information System.pdb
+E:\kokoko\New Information System\obj\x86\Debug\New Information System.exe
+E:\kokoko\New Information System\obj\x86\Debug\New Information System.pdb
+E:\kokoko\New Information System\bin\Debug\New Information System.exe
+E:\kokoko\New Information System\bin\Debug\New Information System.pdb
+E:\kokoko\New Information System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form1.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form2.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form3.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form4.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form5.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form6.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form7.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Properties.Resources.resources
+E:\kokoko\New Information System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\kokoko\New Information System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form8.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form10.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form11.resources
+E:\kokoko\New Information System\obj\x86\Debug\New_Information_System.Form9.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New Information System.exe
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New Information System.pdb
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form1.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form10.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form11.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form2.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form3.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form4.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form5.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form6.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form7.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form8.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\New_Information_System.Form9.resources
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\ERP\New Information System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New Information System.exe
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New Information System.pdb
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form1.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form10.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form11.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form2.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form3.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form4.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form5.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form6.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form7.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form8.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\New_Information_System.Form9.resources
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\koko\New Information System\obj\x86\Debug\GenerateResource.write.1.tlog
