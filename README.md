@@ -1,5 +1,5 @@
 # ERP: Enterprise Resource Planning
- ## FEATURES:
+ ## MODULES:
 1. LogIn
 2. Customer
 3. Vendor
